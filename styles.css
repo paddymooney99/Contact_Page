@@ -1,0 +1,76 @@
+html{/*Patrick Mooney*/
+	font-family: 'Montserrat', sans-serif; /*Changing the font of the html*/
+	background:url('barber.jpg');
+}
+
+.main{
+	position: relative;
+	min-height:100vh;
+	padding: 50px 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+p.ex1 {
+  font-size: 30px
+}
+.navbar-container{
+  width: 100%;
+  background: brown;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+ 
+.navbar-container a {
+  color: white;
+  font-size: 18;
+}
+ 
+.content-container{
+  display: flex;
+  background: grey;
+  width: 100%;
+  justify-content: space-evenly;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+ 
+.center{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+ 
+.part{
+  padding: 0 100px;
+}
+ 
+.title{
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+}
+.wrapper{
+	width:100%;
+}
+
+.navbar-container{
+	width:100%;
+}
+lower{
+	width:100%;	
+}
+@media only screen and (min-width:768px){
+.wrapper{
+		width:600px;
+		margin:0 auto;
+		{
+{
+
+ 
+
+
+
+	
